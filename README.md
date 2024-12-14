@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm /home/cups-code 👋
 
 <!--
 **cups-code/cups-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **cups-code/crecent** and the Citrine Studios Code Division.
+- 🌱 I’m currently learning **Python** and I am eager to learn more.
+- 📫 How to reach me: contact me on Matrix with @cups9:matrix.org
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like Music! (I'm actually a singer for a band in school, aspiring to be a singer out of school!) 
+- 🔧 I'm still working on this README, with hopefully more customisation and information!
+
